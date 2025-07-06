@@ -1,0 +1,22 @@
+{
+  "deployment_type": "complete",
+  "created_at": "2025-07-06T17:56:31.262468",
+  "components": [
+    "main_bot",
+    "telefeed_system",
+    "button_interface",
+    "advanced_user_manager",
+    "flask_server",
+    "keep_alive"
+  ],
+  "render_config": {
+    "build_command": "pip install -r requirements_render.txt",
+    "start_command": "python render_deploy.py"
+  },
+  "environment_variables": [
+    "API_ID",
+    "API_HASH",
+    "BOT_TOKEN",
+    "ADMIN_ID"
+  ]
+}
