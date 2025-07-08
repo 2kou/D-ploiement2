@@ -1,0 +1,597 @@
+2025-07-07 22:33:01,634 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-07 22:33:03,102 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-07 22:33:04,476 - telethon.client.users - INFO - Phone migrated to 4
+2025-07-07 22:33:04,476 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-07-07 22:33:04,637 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-07 22:33:04,639 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-07 22:33:04,640 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:33:06,333 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:33:07,400 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 22:35:08,642 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:35:08,782 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:35:09,412 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:35:09,554 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:35:09,725 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 22:35:14,634 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-07 22:35:14,636 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MTProtoSender._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-07 22:35:14,637 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-07 22:35:14,638 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<Connection._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-07 22:35:24,972 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:35:25,110 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:35:26,119 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 22:35:38,465 - bot.handlers - INFO - User 1190237801 started the bot
+2025-07-07 22:35:50,395 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-07 22:35:53,910 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-07 22:36:46,405 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-07 22:37:03,502 - bot.connection - INFO - Connection attempt stored for user 1190237801: 22967924076
+2025-07-07 22:37:03,700 - bot.connection - INFO - Connection attempt for user 1190237801 with phone 22967924076
+2025-07-07 22:37:03,700 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-07 22:39:14,089 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:39:14,227 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:39:15,438 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 22:41:00,580 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 22:41:00,720 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 22:41:01,687 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 23:45:59,931 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 23:46:00,070 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:46:01,003 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 23:48:34,214 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-07 23:48:36,052 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-07 23:48:36,654 - telethon.client.users - INFO - Phone migrated to 4
+2025-07-07 23:48:36,804 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-07-07 23:48:36,962 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-07 23:48:36,963 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-07 23:48:36,963 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 23:48:38,626 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:48:39,435 - bot.connection - INFO - Verification code sent for user 1190237801 with phone +22967924076
+2025-07-07 23:48:39,435 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-07 23:48:59,597 - bot.database - INFO - Connection stored for user 1190237801: +22967924076
+2025-07-07 23:48:59,597 - bot.connection - INFO - Successful connection stored for user 1190237801: +22967924076
+2025-07-07 23:48:59,597 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-07 23:48:59,598 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:48:59,634 - bot.connection - INFO - Successful connection for user 1190237801 with phone +22967924076
+2025-07-07 23:49:41,765 - bot.handlers - INFO - Help requested by user 1190237801
+2025-07-07 23:50:06,524 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-07 23:50:21,771 - bot.license - ERROR - Error in license validation: 'TelegramClient' object has no attribute 'wait_for'
+2025-07-07 23:50:21,930 - bot.handlers - INFO - License validation requested by user 1190237801
+2025-07-07 23:50:42,843 - bot.handlers - INFO - Payment options shown to user 1190237801
+2025-07-07 23:51:19,766 - bot.payment - INFO - Payment request forwarded to admin for user 1190237801
+2025-07-07 23:51:19,766 - bot.handlers - INFO - Monthly payment request from user 1190237801
+2025-07-07 23:54:35,209 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 23:54:35,348 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:54:36,256 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 23:57:09,520 - bot.handlers - INFO - Help requested by user 1190237801
+2025-07-07 23:57:13,260 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 23:57:13,400 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:57:14,559 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-07 23:58:50,007 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-07 23:58:50,148 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-07 23:58:51,086 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:02:54,005 - bot.admin - INFO - Sessions information displayed to admin
+2025-07-08 00:03:13,898 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:03:14,037 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:03:14,921 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:04:54,161 - bot.database - INFO - Redirection add for user 1190237801: vers_stats
+2025-07-08 00:04:54,161 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats on 22995501564
+2025-07-08 00:04:54,347 - bot.redirection - INFO - Redirection added by user 1190237801: vers_stats on 22995501564
+2025-07-08 00:04:54,347 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:05:03,788 - bot.admin - INFO - Sessions information displayed to admin
+2025-07-08 00:05:28,632 - bot.database - INFO - Redirection add for user 1190237801: vers_stats
+2025-07-08 00:05:28,632 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats on 22967924076
+2025-07-08 00:05:28,790 - bot.redirection - INFO - Redirection added by user 1190237801: vers_stats on 22967924076
+2025-07-08 00:05:28,790 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:05:32,108 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:05:32,248 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:05:33,160 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:05:34,611 - bot.admin - INFO - Sessions information displayed to admin
+2025-07-08 00:06:14,426 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:06:14,564 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:06:15,554 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:06:33,817 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:06:33,817 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:06:33,980 - bot.redirection - INFO - Redirection added by user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:06:33,980 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:06:51,835 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:09:22,261 - bot.admin - INFO - Sessions information displayed to admin
+2025-07-08 00:10:16,155 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:10:16,294 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:10:17,183 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:10:22,860 - bot.handlers - INFO - User 1190237801 started the bot
+2025-07-08 00:10:39,615 - bot.deploy - ERROR - Error in deploy handling: 'TelegramClient' object has no attribute 'wait_for'
+2025-07-08 00:10:39,812 - bot.handlers - INFO - Deploy request from user 1190237801
+2025-07-08 00:11:39,872 - bot.redirection - ERROR - Error adding redirection: 'pending_redirections'
+2025-07-08 00:11:40,049 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:11:47,187 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:12:05,259 - bot.redirection - ERROR - Error handling redirection format: 'pending_redirections'
+2025-07-08 00:12:16,956 - bot.redirection - ERROR - Error adding redirection: 'pending_redirections'
+2025-07-08 00:12:17,116 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:13:36,355 - bot.redirection - ERROR - Error adding redirection: 'pending_redirections'
+2025-07-08 00:13:36,511 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:14:00,714 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:14:11,738 - bot.handlers - INFO - User 1190237801 started the bot
+2025-07-08 00:15:10,378 - bot.handlers - INFO - User 5622847726 started the bot
+2025-07-08 00:15:24,765 - bot.handlers - INFO - Payment options shown to user 5622847726
+2025-07-08 00:15:32,259 - bot.payment - INFO - Payment request forwarded to admin for user 5622847726
+2025-07-08 00:15:32,259 - bot.handlers - INFO - Monthly payment request from user 5622847726
+2025-07-08 00:16:11,232 - bot.payment - INFO - License generated for user 5622847726: 562284772656228... (Format: ID+half+date+letters+time)
+2025-07-08 00:16:11,233 - bot.database - INFO - License stored for user 5622847726
+2025-07-08 00:16:11,576 - bot.admin - INFO - Payment confirmed for user 5622847726 by admin
+2025-07-08 00:16:46,755 - bot.handlers - INFO - License validation requested by user 5622847726
+2025-07-08 00:17:00,905 - bot.license - INFO - License validated successfully for user 5622847726
+2025-07-08 00:17:00,906 - bot.database - INFO - License stored for user 5622847726
+2025-07-08 00:19:22,207 - bot.handlers - INFO - Payment options shown to user 5622847726
+2025-07-08 00:25:30,643 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:25:30,746 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:25:31,434 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:28:45,595 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:28:45,698 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:28:46,382 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:30:36,954 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:30:55,101 - bot.redirection - ERROR - Error adding redirection: 'pending_redirections'
+2025-07-08 00:30:55,311 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:31:50,899 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:31:51,002 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:31:51,766 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:33:14,363 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:33:14,466 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:33:15,163 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:35:18,845 - bot.database - INFO - Pending redirection stored for user 1190237801: groupe1 on 22967924076
+2025-07-08 00:35:18,997 - bot.redirection - INFO - Redirection format requested for user 1190237801: groupe1 on 22967924076
+2025-07-08 00:35:18,998 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:35:49,947 - bot.database - INFO - Redirection add for user 1190237801: groupe1 -> 👥 Groupe 1
+2025-07-08 00:35:49,947 - bot.redirection - INFO - Redirection add for user 1190237801: groupe1 -> 👥 Groupe 1
+2025-07-08 00:35:49,948 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 00:35:50,071 - bot.redirection - INFO - Redirection configured for user 1190237801: groupe1 (1002370795564 -> 1002682552255)
+2025-07-08 00:36:04,074 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:36:04,177 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:36:04,913 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:36:37,848 - bot.handlers - INFO - User 1190237801 started the bot
+2025-07-08 00:36:48,781 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:37:21,874 - bot.chats - INFO - Chats of type channel shown for user 1190237801 on 22967924076
+2025-07-08 00:37:21,874 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:40:14,504 - bot.chats - INFO - Chats of type group shown for user 1190237801 on 22967924076
+2025-07-08 00:40:14,504 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:42:13,110 - bot.database - INFO - Pending redirection stored for user 1190237801: vers_stats on 22967924076
+2025-07-08 00:42:13,264 - bot.redirection - INFO - Redirection format requested for user 1190237801: vers_stats on 22967924076
+2025-07-08 00:42:13,264 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:42:28,729 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:42:28,730 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:42:28,730 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 00:42:28,894 - bot.redirection - INFO - Redirection configured for user 1190237801: vers_stats (1002370795564 -> 1002682552255)
+2025-07-08 00:43:40,724 - bot.admin - INFO - Sessions information displayed to admin
+2025-07-08 00:43:52,555 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:43:52,658 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:43:53,398 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:44:21,207 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:44:21,311 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:44:22,031 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:46:36,219 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:46:39,954 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:46:43,334 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:46:43,437 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:46:44,153 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:47:00,437 - bot.chats - INFO - Chats of type group shown for user 1190237801 on 22967924076
+2025-07-08 00:47:00,437 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:47:17,666 - bot.chats - INFO - All chats shown for user 1190237801 on 22967924076
+2025-07-08 00:47:17,666 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:47:38,545 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-08 00:47:40,407 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-08 00:47:40,874 - telethon.client.users - INFO - Phone migrated to 4
+2025-07-08 00:47:40,983 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-07-08 00:47:41,107 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-08 00:47:41,107 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-08 00:47:41,108 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 00:47:42,860 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:47:43,491 - bot.connection - INFO - Verification code sent for user 1190237801 with phone +22995501564
+2025-07-08 00:47:43,491 - bot.handlers - INFO - Connect command used by user 1190237801
+2025-07-08 00:47:56,528 - bot.database - INFO - Connection stored/replaced for user 1190237801: +22995501564
+2025-07-08 00:47:56,529 - bot.connection - INFO - Successful connection stored for user 1190237801: +22995501564
+2025-07-08 00:47:56,529 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-08 00:47:56,530 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:47:56,588 - bot.connection - INFO - Successful connection for user 1190237801 with phone +22995501564
+2025-07-08 00:48:14,883 - bot.chats - INFO - All chats shown for user 1190237801 on 22995501564
+2025-07-08 00:48:14,883 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:50:09,331 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:50:09,435 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:50:10,111 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:52:11,216 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:52:11,320 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:52:12,182 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:52:12,918 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 00:52:13,060 - bot.session_manager - INFO - Restored 0 active sessions
+2025-07-08 00:53:07,871 - bot.chats - WARNING - No active connection found for user 1190237801
+2025-07-08 00:53:08,001 - bot.chats - INFO - All chats shown for user 1190237801 on 22995501564
+2025-07-08 00:53:08,001 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:53:12,488 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:54:07,875 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:54:07,978 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:54:08,746 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:54:09,420 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 00:54:09,566 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 00:54:09,669 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:54:10,445 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 00:54:10,445 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 00:54:19,018 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:54:19,121 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:54:19,845 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:54:20,592 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 00:54:20,737 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 00:54:20,840 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:54:21,573 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 00:54:21,573 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 00:54:58,809 - bot.chats - INFO - All chats shown for user 1190237801 on 22995501564
+2025-07-08 00:54:58,810 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:55:37,918 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 00:55:39,881 - bot.chats - ERROR - Error showing chats by type: 'status'
+2025-07-08 00:55:40,003 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:56:24,765 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:56:24,868 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:56:25,555 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:56:26,212 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 00:56:26,350 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 00:56:26,453 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:56:27,181 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 00:56:27,181 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 00:56:59,160 - bot.chats - ERROR - Error showing chats by type: 'status'
+2025-07-08 00:56:59,288 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:57:40,692 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 00:58:03,246 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 00:58:03,349 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 00:58:04,074 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 00:58:04,751 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 00:58:04,894 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 00:58:04,998 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 00:58:05,764 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 00:58:05,764 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 00:58:33,316 - bot.chats - INFO - Getting chats of type 'channel' for user 1190237801
+2025-07-08 00:58:38,476 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 00:58:39,044 - bot.chats - INFO - Retrieved 1340 total chats
+2025-07-08 00:58:39,045 - bot.chats - INFO - Filtered to 416 chats of type 'channel'
+2025-07-08 00:58:39,045 - bot.chats - INFO - Retrieved 416 chats of type channel for user 1190237801
+2025-07-08 00:58:39,045 - bot.chats - ERROR - Error showing chats by type: 'status'
+2025-07-08 00:58:39,168 - bot.handlers - INFO - Chats command used by user 1190237801
+2025-07-08 00:58:55,597 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:59:16,317 - bot.database - INFO - Pending redirection stored for user 1190237801: vers_stats on 22967924076
+2025-07-08 00:59:16,491 - bot.redirection - INFO - Redirection format requested for user 1190237801: vers_stats on 22967924076
+2025-07-08 00:59:16,491 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 00:59:20,181 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:59:20,181 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 00:59:20,181 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 00:59:20,182 - bot.message_handler - INFO - Added message and edit handlers for redirection vers_stats: 1002370795564 -> 1002682552255
+2025-07-08 00:59:20,305 - bot.redirection - INFO - Redirection configured for user 1190237801: vers_stats (1002370795564 -> 1002682552255)
+2025-07-08 00:59:41,550 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 00:59:42,224 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:00:14,136 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:00:17,297 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:01:12,365 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:01:15,528 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:01:16,310 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:01:32,517 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:01:57,195 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:02:14,999 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:02:17,946 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:03:13,407 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:03:15,892 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:03:17,232 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:03:30,523 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:03:30,627 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:03:31,344 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:03:32,298 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:03:32,462 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:03:32,565 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:03:33,307 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:03:33,307 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:04:40,476 - bot.database - INFO - Pending redirection stored for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:04:40,611 - bot.redirection - INFO - Redirection format requested for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:04:40,611 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 01:04:46,421 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:04:46,422 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:04:46,422 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 01:04:46,423 - bot.message_handler - INFO - Added message and edit handlers for redirection vers_stats: 1002370795564 -> 1002682552255
+2025-07-08 01:04:46,547 - bot.redirection - INFO - Redirection configured for user 1190237801: vers_stats (1002370795564 -> 1002682552255)
+2025-07-08 01:05:13,306 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:05:15,894 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:05:15,924 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:05:33,297 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:06:03,470 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:06:15,345 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:06:18,540 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:07:13,672 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:07:16,444 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:07:33,672 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:07:34,436 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:08:16,130 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:08:18,965 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:08:37,503 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:08:38,381 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:08:56,816 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:09:16,073 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:09:19,005 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:10:14,221 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:10:17,479 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:10:17,582 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:10:18,278 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:10:19,359 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:10:19,526 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:10:19,629 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:10:20,425 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:10:20,425 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:12:18,134 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:13:44,475 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:13:44,579 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:13:45,397 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:13:48,398 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:13:48,580 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:13:48,683 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:13:49,495 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:13:49,495 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:14:35,183 - bot.database - INFO - Pending redirection stored for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:14:35,312 - bot.redirection - INFO - Redirection format requested for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:14:35,312 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 01:14:40,750 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:14:40,751 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:14:40,751 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 01:14:40,751 - bot.message_handler - INFO - Added message and edit handlers for redirection vers_stats: 1002370795564 -> 1002682552255
+2025-07-08 01:14:40,880 - bot.redirection - INFO - Redirection configured for user 1190237801: vers_stats (1002370795564 -> 1002682552255)
+2025-07-08 01:15:15,356 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:15:18,234 - bot.message_handler - WARNING - Failed to edit message 58: Content of the message was not modified (caused by EditMessageRequest). Sending new message instead.
+2025-07-08 01:15:18,400 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:15:18,838 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:16:15,633 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:16:17,874 - bot.message_handler - WARNING - Failed to edit message 60: Content of the message was not modified (caused by EditMessageRequest). Sending new message instead.
+2025-07-08 01:16:18,030 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:17:15,446 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:17:16,143 - telethon.client.updates - INFO - Got difference for account updates
+2025-07-08 01:17:18,014 - bot.message_handler - WARNING - Failed to edit message 62: Content of the message was not modified (caused by EditMessageRequest). Sending new message instead.
+2025-07-08 01:17:18,287 - bot.message_handler - INFO - Message edited and redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:17:19,158 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:18:17,073 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:18:17,176 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:18:17,856 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:18:18,844 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:18:19,025 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:18:19,129 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:18:19,925 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:18:19,925 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:20:20,099 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:20:36,179 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:20:36,282 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:20:37,066 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:20:38,084 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:20:38,263 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:20:38,263 - bot.message_handler - INFO - 🔄 Redirections automatiques configurées: 0 redirections actives
+2025-07-08 01:20:38,366 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:20:39,225 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:20:39,225 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:21:57,813 - bot.database - INFO - Pending redirection stored for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:21:57,939 - bot.redirection - INFO - Redirection format requested for user 1190237801: vers_stats on 22967924076
+2025-07-08 01:21:57,940 - bot.handlers - INFO - Redirection command used by user 1190237801
+2025-07-08 01:22:04,500 - bot.database - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:22:04,500 - bot.redirection - INFO - Redirection add for user 1190237801: vers_stats -> 📺 vers_stats
+2025-07-08 01:22:04,500 - bot.database - INFO - Pending redirection cleared for user 1190237801
+2025-07-08 01:22:04,500 - bot.message_handler - INFO - Added message and edit handlers for redirection vers_stats: 1002370795564 -> 1002682552255
+2025-07-08 01:22:04,632 - bot.redirection - INFO - Redirection configured for user 1190237801: vers_stats (1002370795564 -> 1002682552255)
+2025-07-08 01:22:16,578 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:22:19,262 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:22:19,952 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:22:36,693 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:23:01,419 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:23:18,408 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:23:21,652 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:24:11,980 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:24:14,893 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:24:15,004 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:24:21,275 - telethon.client.updates - INFO - Got difference for account updates
+2025-07-08 01:24:32,106 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:24:56,929 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:25:14,276 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:25:17,066 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:25:34,774 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:25:35,432 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:25:59,632 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:26:14,483 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:26:17,516 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:26:40,662 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:26:41,373 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:27:15,024 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:27:18,262 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:28:12,619 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:28:14,905 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:28:16,077 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:28:24,408 - telethon.client.updates - INFO - Got difference for account updates
+2025-07-08 01:28:37,992 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:29:14,980 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:29:17,939 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:29:25,232 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:29:35,001 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:29:35,670 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:30:15,431 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:30:18,645 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:30:35,667 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:30:36,372 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:31:07,413 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:31:15,586 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:31:17,847 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:31:35,537 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:32:00,264 - bot.message_handler - INFO - Message edited and updated from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:32:15,861 - bot.message_handler - INFO - Message redirected from -1002370795564 (⚜️ 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐤𝐚 𝐁𝐚𝐜𝐜𝐚𝐫𝐚 ⚜️) to 1002682552255 (Baccarat Kouamé) via vers_stats
+2025-07-08 01:32:19,306 - bot.message_handler - INFO - Message content unchanged for edit in -1002370795564 to 1002682552255 via vers_stats
+2025-07-08 01:33:03,018 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:33:03,122 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:33:03,863 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:33:04,855 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:33:05,022 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:33:05,025 - bot.message_handler - INFO - 🔄 Redirections automatiques configurées: 0 redirections actives
+2025-07-08 01:33:05,128 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:33:05,897 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:33:05,897 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:33:40,007 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:34:36,771 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:37:17,012 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:38:41,401 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:39:11,934 - bot.handlers - INFO - User 1190237801 started the bot
+2025-07-08 01:39:31,764 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:39:32,635 - bot.deploy - ERROR - Error in deploy handling: 'TelegramClient' object has no attribute 'wait_for'
+2025-07-08 01:39:32,756 - bot.handlers - INFO - Deploy request from user 1190237801
+2025-07-08 01:40:33,459 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:41:38,370 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:41:39,670 - bot.deploy - ERROR - Error in deploy handling: 'TelegramClient' object has no attribute 'wait_for'
+2025-07-08 01:41:39,793 - bot.handlers - INFO - Deploy request from user 1190237801
+2025-07-08 01:42:33,334 - telethon.client.updates - INFO - Got difference for channel 2648047033 updates
+2025-07-08 01:43:53,726 - telethon.client.updates - INFO - Got difference for account updates
+2025-07-08 01:44:13,984 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:44:14,088 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:45:09,496 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:45:09,600 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:45:10,318 - bot.handlers - ERROR - Error starting bot: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-07-08 01:45:10,369 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._update_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,370 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<UpdateMethods._keepalive_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,370 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,370 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MTProtoSender._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,370 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,370 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<Connection._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:10,371 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 762, in call_soon
+    self._check_closed()
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 520, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-07-08 01:45:10,380 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Queue.get() running at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py:158> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_release_waiter(<Future pendi...ask_wakeup()]>)() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/tasks.py:431]>
+2025-07-08 01:45:10,381 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 762, in call_soon
+    self._check_closed()
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 520, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-07-08 01:45:20,000 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:45:20,103 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:45:20,828 - bot.handlers - ERROR - Error starting bot: The asyncio event loop must not change after connection (see the FAQ for details)
+2025-07-08 01:45:20,862 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<UpdateMethods._update_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/client/updates.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,862 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<UpdateMethods._keepalive_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/client/updates.py:486> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,863 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<MTProtoSender._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:464> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,863 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MTProtoSender._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py:507> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,863 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<Connection._send_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:322> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,863 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<Connection._recv_loop() running at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py:341> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-07-08 01:45:20,863 - telethon.network.mtprotosender - ERROR - Unhandled error while receiving data
+Traceback (most recent call last):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/mtprotosender.py", line 507, in _recv_loop
+    body = await self._connection.recv()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py", line 308, in recv
+    result, err = await self._recv_queue.get()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 762, in call_soon
+    self._check_closed()
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 520, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-07-08 01:45:20,865 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-9' coro=<Queue.get() running at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py:158> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[_release_waiter(<Future pendi...ask_wakeup()]>)() at /nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/tasks.py:431]>
+2025-07-08 01:45:20,866 - telethon.network.connection.connection - ERROR - Unexpected exception in the send loop
+Traceback (most recent call last):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 158, in get
+    await getter
+GeneratorExit
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
+    self._send(await self._send_queue.get())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/queues.py", line 160, in get
+    getter.cancel()  # Just in case getter is not done yet.
+    ^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 762, in call_soon
+    self._check_closed()
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 520, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+2025-07-08 01:46:37,540 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-08 01:46:37,643 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-08 01:46:38,452 - bot.handlers - INFO - 🚀 Bot TeleFeed démarré avec succès!
+2025-07-08 01:46:39,421 - bot.session_manager - INFO - Session database initialized successfully
+2025-07-08 01:46:39,595 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-08 01:46:39,698 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-08 01:46:40,463 - bot.session_manager - INFO - Session restored for user 1190237801, phone +22995501564
+2025-07-08 01:46:40,463 - bot.session_manager - INFO - Restored 1 active sessions
+2025-07-08 01:46:42,466 - bot.message_handler - INFO - ✅ Redirection 'vers_stats' configurée: 1002370795564 -> 1002682552255
+2025-07-08 01:46:42,466 - bot.message_handler - INFO - Setup 1 redirections for user 1190237801
+2025-07-08 01:46:42,467 - bot.message_handler - INFO - 🔄 Redirections automatiques configurées: 1 redirections actives
+2025-07-08 01:46:50,366 - bot.deploy - INFO - Added file to ZIP: main.py
+2025-07-08 01:46:50,366 - bot.deploy - INFO - Added file to ZIP: bot/__init__.py
+2025-07-08 01:46:50,369 - bot.deploy - INFO - Added file to ZIP: bot/transformation.py
+2025-07-08 01:46:50,370 - bot.deploy - INFO - Added file to ZIP: bot/whitelist.py
+2025-07-08 01:46:50,371 - bot.deploy - INFO - Added file to ZIP: bot/blacklist.py
+2025-07-08 01:46:50,373 - bot.deploy - INFO - Added file to ZIP: bot/license.py
+2025-07-08 01:46:50,374 - bot.deploy - INFO - Added file to ZIP: bot/payment.py
+2025-07-08 01:46:50,375 - bot.deploy - INFO - Added file to ZIP: bot/database.py
+2025-07-08 01:46:50,375 - bot.deploy - INFO - Added file to ZIP: bot/admin.py
+2025-07-08 01:46:50,375 - bot.deploy - INFO - Added file to ZIP: bot/redirection.py
+2025-07-08 01:46:50,376 - bot.deploy - INFO - Added file to ZIP: bot/connection.py
+2025-07-08 01:46:50,376 - bot.deploy - INFO - Added file to ZIP: bot/session_manager.py
+2025-07-08 01:46:50,377 - bot.deploy - INFO - Added file to ZIP: bot/chats.py
+2025-07-08 01:46:50,377 - bot.deploy - INFO - Added file to ZIP: bot/message_handler.py
+2025-07-08 01:46:50,378 - bot.deploy - INFO - Added file to ZIP: bot/deploy.py
+2025-07-08 01:46:50,378 - bot.deploy - INFO - Added file to ZIP: bot/handlers.py
+2025-07-08 01:46:50,379 - bot.deploy - INFO - Added file to ZIP: config/__init__.py
+2025-07-08 01:46:50,379 - bot.deploy - INFO - Added file to ZIP: config/settings.py
+2025-07-08 01:46:50,379 - bot.deploy - INFO - Added file to ZIP: config/env_loader.py
