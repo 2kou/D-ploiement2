@@ -1,0 +1,44 @@
+{
+  "licenses": {
+    "5622847726": {
+      "license": "56228477265622820250708ARIOP0016",
+      "validated_at": "2025-07-08T00:17:00.905874",
+      "active": true
+    }
+  },
+  "connections": {
+    "1190237801": [
+      {
+        "phone": "+22967924076",
+        "connected_at": "2025-07-07T23:48:59.596855",
+        "active": true
+      },
+      {
+        "phone": "+22995501564",
+        "connected_at": "2025-07-08T00:47:56.528485",
+        "active": true,
+        "replaced_at": "08/07/2025 00:47:56"
+      }
+    ]
+  },
+  "redirections": {
+    "1190237801": {
+      "vers_stats": {
+        "phone": "22967924076",
+        "name": "vers_stats",
+        "channel_name": "\ud83d\udcfa vers_stats",
+        "source_id": "1002370795564",
+        "destination_id": "1002682552255",
+        "created_at": "2025-07-08T01:22:04.499791",
+        "replaced_at": "08/07/2025 01:22:04",
+        "active": true,
+        "replacement_info": " (remplac\u00e9: vers_stats)"
+      }
+    }
+  },
+  "transformations": {},
+  "whitelists": {},
+  "blacklists": {},
+  "chats": {},
+  "pending_redirections": {}
+}
